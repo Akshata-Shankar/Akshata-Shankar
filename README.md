@@ -1,4 +1,4 @@
-# 🌟 Akshata Shankar — Student | Web Learner | Future GSoC Contributor
+# 🌟 Akshata Shankar — Student | Web Learner 
 
 Hi! I'm **Akshata**, a motivated student exploring **Web Development**, **Open Source**, and **DSA**.  
 I’m working step-by-step toward cracking **GSoC 2026**.
@@ -9,8 +9,7 @@ I’m working step-by-step toward cracking **GSoC 2026**.
 
 - 📚 Learning **HTML, CSS, JavaScript & Java**  
 - 💡 Practicing **DSA using Python**  
-- 🌱 Actively learning **Git & GitHub**  
-- 🎯 Goal: **Crack GSoC 2026**  
+- 🌱 Actively learning **Git & GitHub**   
 - ✨ Clean and simple coding style  
 
 ---
@@ -40,14 +39,6 @@ I’m working step-by-step toward cracking **GSoC 2026**.
 
 ---
 
-## 🎯 My Goals (2025–2026)
-
-- Build 5–6 strong frontend projects  
-- Improve GitHub profile & contributions  
-- Contribute to beginner-friendly open-source projects  
-- Apply for **GSoC 2026** with confidence  
-
----
 
 ## 📊 GitHub Stats
 
