@@ -1,7 +1,6 @@
 # 🌟 Akshata Shankar — Student | Web Learner 
 
 Hi! I'm **Akshata**, a motivated student exploring **Web Development**, **Open Source**, and **DSA**.  
-I’m working step-by-step toward cracking **GSoC 2026**.
 
 ---
 
